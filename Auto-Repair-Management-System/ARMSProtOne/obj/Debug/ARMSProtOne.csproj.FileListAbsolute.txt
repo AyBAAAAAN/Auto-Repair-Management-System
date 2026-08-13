@@ -1,0 +1,17 @@
+C:\Users\afant\source\repos\Auto-Repair-Management-System-master\Auto-Repair-Management-System-master\ARMSProtOne\bin\Debug\ARMSProtOne.exe.config
+C:\Users\afant\source\repos\Auto-Repair-Management-System-master\Auto-Repair-Management-System-master\ARMSProtOne\bin\Debug\ARMSProtOne.exe
+C:\Users\afant\source\repos\Auto-Repair-Management-System-master\Auto-Repair-Management-System-master\ARMSProtOne\bin\Debug\ARMSProtOne.pdb
+C:\Users\afant\source\repos\Auto-Repair-Management-System-master\Auto-Repair-Management-System-master\ARMSProtOne\obj\Debug\ARMSProtOne.csproj.AssemblyReference.cache
+C:\Users\afant\source\repos\Auto-Repair-Management-System-master\Auto-Repair-Management-System-master\ARMSProtOne\obj\Debug\ARMSProtOne.BaseForm.resources
+C:\Users\afant\source\repos\Auto-Repair-Management-System-master\Auto-Repair-Management-System-master\ARMSProtOne\obj\Debug\ARMSProtOne.DashboardControl.resources
+C:\Users\afant\source\repos\Auto-Repair-Management-System-master\Auto-Repair-Management-System-master\ARMSProtOne\obj\Debug\ARMSProtOne.JobOrderControl.resources
+C:\Users\afant\source\repos\Auto-Repair-Management-System-master\Auto-Repair-Management-System-master\ARMSProtOne\obj\Debug\ARMSProtOne.PaymentControl.resources
+C:\Users\afant\source\repos\Auto-Repair-Management-System-master\Auto-Repair-Management-System-master\ARMSProtOne\obj\Debug\ARMSProtOne.Properties.Resources.resources
+C:\Users\afant\source\repos\Auto-Repair-Management-System-master\Auto-Repair-Management-System-master\ARMSProtOne\obj\Debug\ARMSProtOne.RecordsControl.resources
+C:\Users\afant\source\repos\Auto-Repair-Management-System-master\Auto-Repair-Management-System-master\ARMSProtOne\obj\Debug\ARMSProtOne.RecordsControlptAddRecords.resources
+C:\Users\afant\source\repos\Auto-Repair-Management-System-master\Auto-Repair-Management-System-master\ARMSProtOne\obj\Debug\ARMSProtOne.RecordsptViewCust.resources
+C:\Users\afant\source\repos\Auto-Repair-Management-System-master\Auto-Repair-Management-System-master\ARMSProtOne\obj\Debug\ARMSProtOne.ScheduleControl.resources
+C:\Users\afant\source\repos\Auto-Repair-Management-System-master\Auto-Repair-Management-System-master\ARMSProtOne\obj\Debug\ARMSProtOne.csproj.GenerateResource.cache
+C:\Users\afant\source\repos\Auto-Repair-Management-System-master\Auto-Repair-Management-System-master\ARMSProtOne\obj\Debug\ARMSProtOne.csproj.CoreCompileInputs.cache
+C:\Users\afant\source\repos\Auto-Repair-Management-System-master\Auto-Repair-Management-System-master\ARMSProtOne\obj\Debug\ARMSProtOne.exe
+C:\Users\afant\source\repos\Auto-Repair-Management-System-master\Auto-Repair-Management-System-master\ARMSProtOne\obj\Debug\ARMSProtOne.pdb
