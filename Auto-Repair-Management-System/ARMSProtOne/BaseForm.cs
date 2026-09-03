@@ -13,8 +13,7 @@ namespace ARMSProtOne
     public partial class BaseForm : Form
     {
 
-        //TESTING ULIIIITTT
-        //G NABA TO
+        //GOODLUCK BABYE
         public BaseForm()
         {
             InitializeComponent();
