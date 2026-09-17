@@ -66,13 +66,14 @@ namespace ARMSProtOne
         private void btnAccounts_Click(object sender, System.EventArgs e)
         {
             SetActiveMenuItem(btnAccounts);
-            // TODO: LoadControl(new AccountsControl());
+            LoadControl(new AccountsControl());
         }
 
         private void btnLogout_Click(object sender, System.EventArgs e)
         {
-            // TODO: return to LoginForm once implemented.
-            Application.Exit();
+            SetActiveMenuItem(btnLogout);
+            new LoginForm().Show();
+            Hide();
         }
         private void LoadControl(UserControl control)
         {

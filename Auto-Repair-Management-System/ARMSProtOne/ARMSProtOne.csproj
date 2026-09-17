@@ -46,6 +46,24 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AccountsControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AccountsControl.Designer.cs">
+      <DependentUpon>AccountsControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AccountsControlAddEditStaff.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AccountsControlAddEditStaff.Designer.cs">
+      <DependentUpon>AccountsControlAddEditStaff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AccountsControlAddEditTechnician.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AccountsControlAddEditTechnician.Designer.cs">
+      <DependentUpon>AccountsControlAddEditTechnician.cs</DependentUpon>
+    </Compile>
     <Compile Include="BaseForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -100,6 +118,12 @@
     </Compile>
     <Compile Include="JobOrderControlptManage.Designer.cs">
       <DependentUpon>JobOrderControlptManage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
     </Compile>
     <Compile Include="PaymentControl.cs">
       <SubType>UserControl</SubType>
